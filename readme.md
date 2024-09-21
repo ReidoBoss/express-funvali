@@ -2,7 +2,8 @@
   -September 22,2024-
   Version 1.0 Out!
 </h1>
-<h2>To Test</h2>
+<h2>This Library is made to mimic FP(functional programming) and syntax of Scala</h2>
+<h3>To Test</h3>
 <ul>
   <li>Go to the test folder</li>
   <li>Run server.js using command 'node server.js'</li>
